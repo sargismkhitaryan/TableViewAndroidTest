@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TableView</string>
+    <string name="internet_message">Please, check an internet connection and try again.</string>
+    <string name="internet_title">No internet</string>
+    <string name="ok">OK</string>
+    <string name="no_permission">Can not work without %1$s permission.</string>
+    <string name="something_went_wrong">Something went wrong, try later.</string>
+    <string name="comment">Comment</string>
+    <string name="views">Views 1/2</string>
+</resources>
